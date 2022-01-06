@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "fstorm": "latest",
+    "jimp": "latest",
+    "loadavg-windows": "^1.1.1",
+    "node-cron": "^3.0.0"
+  },
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "2.0.9"
+}
